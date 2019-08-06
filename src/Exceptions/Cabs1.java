@@ -38,6 +38,7 @@ public class Cabs1 {
 	catch(InvalidCabException i1)
 	{
 	System.out.println(i1.getMessage());
+	System.out.println("Hello World");
 	}
 
 }}
