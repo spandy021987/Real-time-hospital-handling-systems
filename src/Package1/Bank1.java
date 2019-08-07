@@ -31,5 +31,6 @@ public class Bank1 {
 		Loan.edu_loan(i1);
 		Loan.edu_loan(a1);
 	}
+	System.out.println("Hello World");
 
 }
